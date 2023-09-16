@@ -6,6 +6,3 @@ print ("Instead of Empty Line")
 # (a, b, c) - Multiple Values are Permitted
 
 print ("Hello June", "Hello Akrti")
-
-c = print ("Hello June")
-print(c)
